@@ -4,7 +4,7 @@ Gman https://www.youtube.com/user/Gggmanlives/videos
 RossScott https://www.youtube.com/user/chilledsanity/videos
 Cvit https://www.youtube.com/user/The1800ragequit/videos
 
-# daily
+# more dev
 Traversy Media https://www.youtube.com/user/TechGuyWeb/videos
 Ben Awad https://www.youtube.com/user/99baddawg/videos
 Derek Banas https://www.youtube.com/user/derekbanas/videos
@@ -168,9 +168,3 @@ HeartBeast https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA/videos
 GDC https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ
 Mix & Jam https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA/videos
 The Happie Cat https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g/videos
- 
- 
-# English
-Learn English Lab https://www.youtube.com/channel/UCeZ_GliTTOBahnjcnnRihAA/videos
-Clear English Corner https://www.youtube.com/channel/UCNmQim1VX0mtyRH8Oe7bSSA/videos
-Rachel's English https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA/videos

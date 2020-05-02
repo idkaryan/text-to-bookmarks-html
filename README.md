@@ -1,7 +1,7 @@
 # text-to-bookmarks-html
 
 #### what does this tool do?
-it converts a text file with headings and links/titles to an HTML format.
+it converts a text file with headings and links/titles to HTML format.
 
 #### why do I need it?
 if you ever had to change your default bookmark manager, you might find start.me is a great one. Problem is, their import system for getpocket app is broken.

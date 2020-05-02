@@ -1,0 +1,16 @@
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.exe
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.deps.json
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.runtimeconfig.json
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.runtimeconfig.dev.json
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.dll
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\TextToBookmarksHtml.pdb
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\myGithub\_new\TextToBookmarksHtml\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.csprojAssemblyReference.cache
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.csproj.CoreCompileInputs.cache
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.AssemblyInfoInputs.cache
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.AssemblyInfo.cs
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.csproj.CopyComplete
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.dll
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.pdb
+D:\myGithub\_new\TextToBookmarksHtml\obj\Debug\netcoreapp3.1\TextToBookmarksHtml.genruntimeconfig.cache
